@@ -7,9 +7,9 @@
     "test": "jest --collectCoverage"
   },
   "keywords": [
-    "data",
-    "structure",
-    "typescript"
+    "data structure",
+    "typescript",
+    "UnionFindSets"
   ],
   "author": "xiaomao",
   "license": "ISC",

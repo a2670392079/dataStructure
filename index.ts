@@ -1,3 +1,4 @@
-import PriorityQueue from "./core/PriorityQueue.js";
+import PriorityQueue from "./core/PriorityQueue";
+import UnionFindSets from "./core/UnionFindSets";
 
-export { PriorityQueue };
+export { PriorityQueue, UnionFindSets };
