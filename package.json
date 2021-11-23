@@ -1,15 +1,17 @@
 {
-  "name": "datastructure",
-  "version": "0.0.1",
+  "name": "@a2670392079/data-structure-ts",
+  "version": "0.0.2",
   "description": "常用数据结构的ts实现",
   "main": "index.js",
   "scripts": {
-    "test": "jest --collectCoverage"
+    "test": "jest --collectCoverage",
+    "publish": "npm publish"
   },
   "keywords": [
     "data structure",
     "typescript",
-    "UnionFindSets"
+    "UnionFindSets",
+    "数状数组"
   ],
   "author": "xiaomao",
   "license": "ISC",
